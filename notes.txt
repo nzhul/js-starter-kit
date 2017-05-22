@@ -23,3 +23,12 @@ Bundling:
 Linting:
   - other: JSLint, JSHint, TSLint
   - best: ESLint
+
+Testing and Continuous Integration:
+  - other: Jasmine, Tape, QUnit, AVA, Jest
+  - best: Mocha
+    -- Assertion: Chai
+    -- Helpers: JSDOM, Cheerio (JQuery for the server)
+    -- Where to Run Tests: Karma(Browser), Testem(Browser), PhantomJS(No-Browser), JSDOM (in-memory DOM)
+    -- Where to put tests: "test" folder; In the same "src" folder(best)
+    -- When to run our tests: upon Save!
