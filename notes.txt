@@ -33,3 +33,7 @@ Testing and Continuous Integration:
     -- Where to put tests: "test" folder; In the same "src" folder(best)
     -- When to run our tests: upon Save!
     -- CI Servers: Travis, Appveyor, Jenkins, CircleCI, Semaphore
+
+HTTP Calls:
+  - other: JQuery,
+  - best:
