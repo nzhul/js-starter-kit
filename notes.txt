@@ -1,0 +1,25 @@
+List of all requirements:
+
+Package Management:
+  - other: Bower
+  - best: npm ( node package manager)
+
+Development serve:
+  - other: http-server, live-server, koa, hapi, budo, webpack dev server, browsersync
+  - best: Express
+
+Automation:
+  - other:grunt, gulp
+  - best: npm scripts
+
+Transpiling:
+  - other: typescript, elm
+  - best: Babel
+
+Bundling:
+  - other: requirejs, browserify, rollup, JSPM
+  - best: Webpack
+
+Linting:
+  - other:
+  - best:
