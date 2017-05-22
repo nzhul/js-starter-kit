@@ -32,3 +32,4 @@ Testing and Continuous Integration:
     -- Where to Run Tests: Karma(Browser), Testem(Browser), PhantomJS(No-Browser), JSDOM (in-memory DOM)
     -- Where to put tests: "test" folder; In the same "src" folder(best)
     -- When to run our tests: upon Save!
+    -- CI Servers: Travis, Appveyor, Jenkins, CircleCI, Semaphore
