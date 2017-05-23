@@ -36,4 +36,5 @@ Testing and Continuous Integration:
 
 HTTP Calls:
   - other: JQuery,
-  - best:
+  - best: fetch,
+    -- Mocking: json-schema-faker,
